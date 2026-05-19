@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">No Touch</string>
+    <string name="accessibility_service_description">Keeps touch lock reliable, supports volume-key unlock, and can detect foreground apps for future auto-lock rules.</string>
+    <string name="floating_unlock_description">Floating unlock shield</string>
+    <string name="unlock_dialog_title">Unlock touch?</string>
+    <string name="unlock_dialog_message">Touch input will be restored. Kids could interact with the screen again.</string>
+    <string name="unlock_confirm">Unlock</string>
+    <string name="unlock_cancel">Keep locked</string>
+    <string name="notification_channel_name">Touch lock</string>
+    <string name="notification_channel_description">Shows when touch lock is counting down or active</string>
+    <string name="notification_countdown_title">Touch lock in %1$d s</string>
+    <string name="notification_countdown_text">Open your app now — lock starts when the timer ends.</string>
+    <string name="notification_active_title">Touch is locked</string>
+    <string name="notification_active_text">Use the floating shield and your unlock gesture.</string>
+    <string name="foreground_service_special_use">Blocks accidental touch input for child-safe phone use via a system overlay.</string>
+</resources>
